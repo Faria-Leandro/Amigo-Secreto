@@ -1,7 +1,7 @@
 <h1>Amigo Secreto</h1>
 
 <h2>   Sobre</h2>
-<p>Projeto para sortear amigo secreto.</p>
+<p>Projeto para sortear amigo secreto. Digite os nomes dos participantes para adicionar a lista de sorteio, posterioemente cliente em Sortear Amigo. </p>
 
 ##    Tecnologias
 <div>
