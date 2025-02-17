@@ -30,7 +30,7 @@ function sortearAmigo() {
     } else {
         let amigoSecreto = listaAmigos[Math.floor(Math.random() * listaAmigos.length)];
         listaAmigos = listaAmigos.filter(item => item !== amigoSecreto);
-        resultado.innerHTML = `Seu amigo secreto éS ${amigoSecreto}!`;
+        resultado.innerHTML = `Seu amigo secreto é: ${amigoSecreto}`;
         botaoReiniciar.removeAttribute('hidden');
         botaoSortear.setAttribute('hidden', 'hidden');
     }
